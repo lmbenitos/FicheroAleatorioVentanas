@@ -98,14 +98,10 @@ public VentanaDepart(JFrame f )
 
 public void actionPerformed(ActionEvent e) 
 {   int dep, confirm;
-	
-	
 	altadepart(e);
 	consuldepart(e);
 	borradepart(e);
 	modifdepart(e);
-	
-	
 	if (e.getSource() == fin) { //SE PULSA EL BOTON salir 	
 		 System.exit(0);	
 		 //dispose();   	 
