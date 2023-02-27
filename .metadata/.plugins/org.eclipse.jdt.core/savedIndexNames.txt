@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\ENDE\UD4\Tarea\FicheroAleatorioVentana\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
