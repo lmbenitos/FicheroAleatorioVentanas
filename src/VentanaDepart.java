@@ -102,6 +102,9 @@ public void actionPerformed(ActionEvent e)
 	consuldepart(e);
 	borradepart(e);
 	modifdepart(e);
+	
+	
+	
 	if (e.getSource() == fin) { //SE PULSA EL BOTON salir 	
 		 System.exit(0);	
 		 //dispose();   	 
